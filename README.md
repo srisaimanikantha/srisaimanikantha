@@ -87,40 +87,6 @@ Aspiring Software Development Engineer • Java Developer • MERN Stack Develop
 
 </p>
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=srisaimanikantha&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisaimanikantha&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srisaimanikantha&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/srisaimanikantha/srisaimantha/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
 # 📋 GitHub Profile Summary
 
 <p align="center">
@@ -160,7 +126,7 @@ Aspiring Software Development Engineer • Java Developer • MERN Stack Develop
 
 # 🎯 2026 Goals
 
-- ✅ Solve 500+ LeetCode Problems
+- ✅ Solve 300+ LeetCode Problems
 - ✅ AWS Cloud Certification
 - ✅ Open Source Contributions
 - ✅ Secure an SDE Role
@@ -168,25 +134,6 @@ Aspiring Software Development Engineer • Java Developer • MERN Stack Develop
 
 ---
 
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="YOUR_CODEFORCES_URL">
-<img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge"/>
-</a>
-
-<a href="YOUR_HACKERRANK_URL">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-</p>
-
----
 
 # 💬 Quote
 
