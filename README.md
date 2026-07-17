@@ -25,7 +25,7 @@ Aspiring Software Development Engineer • Java Developer • MERN Stack Develop
 
 📍 India
 
-💡 Passionate about Backend Development
+💡 Passionate about fullstack Development(ML)
 
 🌱 Currently Learning
 
