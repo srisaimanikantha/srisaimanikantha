@@ -1,203 +1,128 @@
-# 👋 Hi there, I'm Ponnana Sri Sai Manikantha
+# 💫 About Me:
+🔭 I’m currently working on:
+Full-Stack Web Development (MERN), Java DSA, and Machine Learning projects.
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+👯 I’m looking to collaborate on:
+Open-source Full-Stack, Java, Backend Development, and AI/ML projects.
 
-### 🚀 Aspiring Software Development Engineer | Full-Stack Developer | AI & ML Enthusiast
+🤝 I’m looking for help with:
+System Design, Cloud Deployment, Microservices, and Advanced Backend Development.
 
-💡 Passionate about building scalable software solutions using **Java, MERN Stack, Python, and Machine Learning**. I enjoy solving real-world problems through clean code, efficient algorithms, and modern web technologies.
+🌱 I’m currently learning:
+Data Structures & Algorithms, System Design, Cloud Computing, and Software Development.
 
----
+💬 Ask me about:
+Java, Python, MERN Stack, REST APIs, MongoDB, MySQL, Tableau, and Machine Learning.
 
-## 💫 About Me
-
-🔭 Currently building **Full-Stack MERN Applications** and **Machine Learning Projects**
-
-🌱 Learning **Advanced Java, DSA, System Design, Cloud Computing (AWS)**
-
-💻 Practicing **LeetCode** daily to improve problem-solving skills
-
-👨‍💻 Interested in **Backend Development, AI Applications, and Scalable Systems**
-
-📊 Love creating interactive dashboards with **Tableau & SQL**
-
-🎯 2026 Goal:
-- Crack an SDE role
-- Reach 500+ LeetCode problems
-- Contribute to Open Source
-- Earn AWS Cloud Certification
-
-⚡ Fun Fact:
-> "I believe every bug teaches something new."
+⚡ Fun fact:
+I enjoy solving coding problems, building scalable applications, and transforming ideas into real-world software solutions.
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Socials:
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ponnana-sri-sai-manikantha"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:ponnanasaisaimanikanta@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/srisaimanikantha"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponnana-sri-sai-manikantha/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/srisaimanikantha)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ponnanasaisaimanikanta@gmail.com)
 
 ---
 
-# 💻 Tech Stack
+# 💻 Tech Stack:
 
 ### 👨‍💻 Languages
-
-Java • Python • JavaScript • SQL
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🌐 Frontend
-
-React.js • HTML5 • CSS3
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Backend
-
-Node.js • Express.js • REST APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 ### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-MongoDB • MySQL
+### 📊 Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 🤖 Machine Learning
-
-Scikit-Learn • TensorFlow • Pandas • NumPy • Matplotlib
-
-### 🛠 Tools
-
-Git • GitHub • Tableau • VS Code • Postman
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛒 SellPoint
-✔ MERN Marketplace Platform
+### 🛒 SellPoint
+- MERN Stack Marketplace Application
+- JWT Authentication
+- REST APIs
+- MongoDB Database
+- Responsive UI
 
-✔ JWT Authentication
+### 🍽️ Table Booking System
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Reservation Management
 
-✔ Product & Order Management
-
-✔ REST APIs
-
-✔ Responsive UI
-
----
-
-## 🍽 Table Booking System
-
-✔ Reservation Management
-
-✔ MongoDB Integration
-
-✔ REST APIs
-
-✔ Conflict Detection
+### 🩺 Liver Disease Prediction
+- Python
+- Decision Tree
+- Machine Learning
+- Data Analysis
+- 78% Model Accuracy
 
 ---
 
-## 🩺 Liver Disease Prediction
+# 🏆 Achievements
 
-✔ Decision Tree Model
+🏅 Public Relations Lead – Changemakers of Amazon LPU
 
-✔ Data Preprocessing
+📚 MERN Stack Development Training – Cipher Schools
 
-✔ Feature Engineering
+📊 Coffee Chain Sales Dashboard – Tableau
 
-✔ 78% Prediction Accuracy
+☁️ NPTEL Cloud Computing Certified
 
----
-
-# 📜 Certifications
-
-🏅 Data Structures & Algorithms — Udemy
-
-🏅 MERN Stack Development — Cipher Schools
-
-🏅 Machine Learning & Data Science — Cipher Schools
-
-🏅 Cloud Computing — NPTEL
+💻 Data Structures & Algorithms – Udemy
 
 ---
 
-# 🏆 Leadership
+# 📈 GitHub Stats
 
-🎯 Public Relations Lead
+![](https://github-readme-stats.vercel.app/api?username=srisaimanikantha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-**Changemakers of Amazon LPU**
+![](https://nirzak-streak-stats.vercel.app/?user=srisaimanikantha&theme=tokyonight&hide_border=true)
 
-✔ Managed 10+ Team Members
-
-✔ Organized 5+ Technical Events
-
-✔ Increased Student Engagement by 40%
-
----
-
-# 📈 Coding Journey
-
-🔥 Solving Data Structures & Algorithms Problems
-
-📚 Learning System Design
-
-💻 Building Full-Stack Applications
-
-☁️ Exploring Cloud Technologies
-
-🤖 Developing AI-Powered Applications
-
----
-
-# 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=srisaimanikantha&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=srisaimanikantha&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=srisaimanikantha&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=srisaimanikantha&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=srisaimanikantha&theme=algolia&no-frame=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=srisaimanikantha&theme=algolia&no-frame=true&no-bg=true&margin-w=8)
 
 ---
 
-# 📊 Contribution Graph
+## 📈 Profile Views
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srisaimanikantha&theme=tokyo-night)](https://github.com/srisaimanikantha)
-
----
-
-# ⚡ Developer Quote
-
-> *"Great software isn't just written—it is designed, tested, improved, and continuously learned from."*
+![](https://visitcount.itsvg.in/api?id=srisaimanikantha&icon=5&color=6)
 
 ---
 
-# 🎯 Current Focus
+## ✍️ Quote
 
-✅ Java & DSA
-
-✅ Backend Development
-
-✅ MERN Stack
-
-✅ Machine Learning
-
-✅ System Design
-
-✅ Cloud Computing
-
----
-
-# 📬 Let's Collaborate
-
-💡 Open to internships, full-time opportunities, open-source contributions, and exciting software development projects.
-
-⭐ If you like my work, don't forget to star my repositories!
-
----
-
-![](https://komarev.com/ghpvc/?username=srisaimanikantha&label=Profile%20Views&color=0e75b6&style=flat)
+> "Code with purpose, learn continuously, and build solutions that create real-world impact."
