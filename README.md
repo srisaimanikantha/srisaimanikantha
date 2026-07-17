@@ -1,21 +1,128 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Data analytics and machine learning projects using Python, Tableau, and SQL<br>👯 I’m looking to collaborate on:<br>Data science, analytics dashboards, and beginner-friendly machine learning projects<br>🤝 I’m looking for help with:<br>Advanced machine learning techniques and real-world project optimization<br>🌱 I’m currently learning:<br>Data structures & algorithms, cloud computing, and full-stack development<br>💬 Ask me about:<br>Python, Java, Tableau, data visualization, and basic machine learning<br>⚡ Fun fact:<br>I enjoy turning raw data into meaningful insights and dashboards
+🔭 I’m currently working on:
+Full-Stack Web Development (MERN), Java DSA, and Machine Learning projects.
 
+👯 I’m looking to collaborate on:
+Open-source Full-Stack, Java, Backend Development, and AI/ML projects.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ponnana-sri-sai-manikantha/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ponnanasaisaimanikanta@gmail.com) 
+🤝 I’m looking for help with:
+System Design, Cloud Deployment, Microservices, and Advanced Backend Development.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=srisaimanikantha&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=srisaimanikantha&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=srisaimanikantha&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🌱 I’m currently learning:
+Data Structures & Algorithms, System Design, Cloud Computing, and Software Development.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=srisaimanikantha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+💬 Ask me about:
+Java, Python, MERN Stack, REST APIs, MongoDB, MySQL, Tableau, and Machine Learning.
+
+⚡ Fun fact:
+I enjoy solving coding problems, building scalable applications, and transforming ideas into real-world software solutions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=srisaimanikantha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponnana-sri-sai-manikantha/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/srisaimanikantha)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ponnanasaisaimanikanta@gmail.com)
+
+---
+
+# 💻 Tech Stack:
+
+### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📊 Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+### 🛒 SellPoint
+- MERN Stack Marketplace Application
+- JWT Authentication
+- REST APIs
+- MongoDB Database
+- Responsive UI
+
+### 🍽️ Table Booking System
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Reservation Management
+
+### 🩺 Liver Disease Prediction
+- Python
+- Decision Tree
+- Machine Learning
+- Data Analysis
+- 78% Model Accuracy
+
+---
+
+# 🏆 Achievements
+
+🏅 Public Relations Lead – Changemakers of Amazon LPU
+
+📚 MERN Stack Development Training – Cipher Schools
+
+📊 Coffee Chain Sales Dashboard – Tableau
+
+☁️ NPTEL Cloud Computing Certified
+
+💻 Data Structures & Algorithms – Udemy
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=srisaimanikantha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=srisaimanikantha&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=srisaimanikantha&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=srisaimanikantha&theme=algolia&no-frame=true&no-bg=true&margin-w=8)
+
+---
+
+## 📈 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=srisaimanikantha&icon=5&color=6)
+
+---
+
+## ✍️ Quote
+
+> "Code with purpose, learn continuously, and build solutions that create real-world impact."
